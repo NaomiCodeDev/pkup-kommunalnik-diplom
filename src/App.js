@@ -1,8 +1,8 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import { ThemeProvider } from "@mui/material/styles";
-import theme from "./theme"; // Файл theme.js должен быть создан отдельно
+import { ThemeProvider } from '@mui/material/styles';
 import Auth from "./pages/Auth";
+import theme from "./theme";
 
 function App() {
   return (
@@ -18,7 +18,6 @@ function App() {
 }
 
 export default App;
-
 
 
 // import logo from './logo.svg';

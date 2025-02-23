@@ -8,6 +8,7 @@
     "@fontsource/exo-2": "^5.1.1",
     "@fontsource/golos-text": "^5.1.1",
     "@fontsource/nunito": "^5.1.1",
+    "@mui/icons-material": "^6.4.5",
     "@mui/material": "^6.4.5",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
